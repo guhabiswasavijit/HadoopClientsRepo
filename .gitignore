@@ -1,5 +1,3 @@
-.metadata/
-SpringBootHdfsRepo/webhdfs/.settings
-SpringBootHdfsRepo/webhdfs/target
-webhdfs-java-client/
-SpringSecurityKerberos/
+.settings/
+target/
+derby.log
